@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test_db>
+	<well name="alex" id="1">
+	<equipment name="бур" id="2"></equipment>
+	<equipment name="EQ0005" id="5"></equipment>
+	<equipment name="EQ0006" id="6"></equipment>
+	<equipment name="EQ0007" id="7"></equipment>
+	<equipment name="EQ0008" id="8"></equipment>
+	<equipment name="EQ0009" id="9"></equipment>
+	<equipment name="EQ0010" id="10"></equipment>
+	<equipment name="EQ0011" id="11"></equipment>
+	<equipment name="EQ0012" id="12"></equipment>
+	</well>
+	<well name="north" id="2">
+	<equipment name="насос" id="1"></equipment>
+	<equipment name="сторожка" id="3"></equipment>
+	<equipment name="будка охранника" id="4"></equipment>
+	</well>
+	<well name="west" id="3"></well>
+</test_db>
